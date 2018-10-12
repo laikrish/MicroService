@@ -1,0 +1,3 @@
+
+#to enable all blocked endpoints
+management.endpoints.web.exposure.include=*
