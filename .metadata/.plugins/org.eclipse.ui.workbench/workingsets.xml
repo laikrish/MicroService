@@ -11,8 +11,8 @@
 <item elementID="=configuration-service/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539328415272_2" label="configuration-service" name="configuration-service"/>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539329224986_3" label="configuration-client" name="configuration-client">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuration-client" type="4"/>
-</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539329224986_3" label="configuration-client" name="configuration-client"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539593306446_5" label="Eureka-Server" name="Eureka-Server"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539593673792_6" label="Eureka-Client" name="Eureka-Client"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1539331486834_4" label="Window Working Set" name="Aggregate for window 1539331486834"/>
 </workingSetManager>
